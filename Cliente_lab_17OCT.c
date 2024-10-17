@@ -1,3 +1,11 @@
+/***********************************************************
+
+FECHA: 17/10/2024
+AUTOR: JUAN SEBASTIAN NOVOA GARCIA
+MATERIA: SISTEMAS OPERATIVOS
+LABORATORIO: Cliente - Servidor 
+        - Funcionamiento del codigo
+*************************************************************/
 #include <stdio.h>
 #include <string.h>
 #include <fcntl.h>
